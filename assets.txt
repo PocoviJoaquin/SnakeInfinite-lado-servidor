@@ -1,1 +1,3 @@
+imagenes/serpiente_cabeza.png
+imagenes/serpiente_cuerpo.png
 libgdx.png
